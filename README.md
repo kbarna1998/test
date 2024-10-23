@@ -1,2 +1,2 @@
 # test
-Ez eg tesztoldalam
+Ez egy tesztoldalam
